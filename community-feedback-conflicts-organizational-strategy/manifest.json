@@ -1,0 +1,207 @@
+{
+ "version": 1,
+ "slug": "community-feedback-conflicts-organizational-strategy",
+ "url": "https://www.asiamconsultinggroup.com/better-off/community-feedback-conflicts-organizational-strategy",
+ "title": "When Community Feedback Conflicts with Your Plan",
+ "audio": "narration.mp3",
+ "engine": "chatterbox",
+ "voice": "chatterbox:clone",
+ "voice_label": "Chatterbox clone of your reference.wav (MIT)",
+ "speed": 1.0,
+ "delivery": {
+  "cfg_weight": 0.5,
+  "exaggeration": 0.4,
+  "tempo": 0.92
+ },
+ "duration": 237.413,
+ "rendered_at": "2026-10-12T22:27:12-04:00",
+ "source_hash": "81c9fb88",
+ "hash_rule": "fnv1a32 of element textContent (script/style/noscript/button/svg and [class*=ai-audio] removed), whitespace collapsed and trimmed",
+ "disclosure": "AI-generated narration",
+ "segments": [
+  {
+   "pid": 0,
+   "id": "s000",
+   "kind": "title",
+   "hash": "title",
+   "start": 0.0,
+   "end": 2.696
+  },
+  {
+   "pid": 1,
+   "id": "s001",
+   "kind": "p",
+   "hash": "3ae83d2b",
+   "start": 3.674,
+   "end": 12.098
+  },
+  {
+   "pid": 2,
+   "id": "s002",
+   "kind": "p",
+   "hash": "fc902016",
+   "start": 12.587,
+   "end": 35.348
+  },
+  {
+   "pid": 3,
+   "id": "s003",
+   "kind": "p",
+   "hash": "131d7d2e",
+   "start": 35.837,
+   "end": 43.696
+  },
+  {
+   "pid": 4,
+   "id": "s004",
+   "kind": "p",
+   "hash": "1465ef90",
+   "start": 44.185,
+   "end": 57.957
+  },
+  {
+   "pid": 5,
+   "id": "s005",
+   "kind": "p",
+   "hash": "ef838bb9",
+   "start": 58.446,
+   "end": 69.652
+  },
+  {
+   "pid": 6,
+   "id": "s006",
+   "kind": "heading",
+   "hash": "f24723dc",
+   "start": 70.522,
+   "end": 72.478
+  },
+  {
+   "pid": 7,
+   "id": "s007",
+   "kind": "p",
+   "hash": "a3be457d",
+   "start": 73.239,
+   "end": 92.391
+  },
+  {
+   "pid": 8,
+   "id": "s008",
+   "kind": "p",
+   "hash": "ae84ff2d",
+   "start": 92.88,
+   "end": 101.489
+  },
+  {
+   "pid": 9,
+   "id": "s009",
+   "kind": "heading",
+   "hash": "e47bc3a6",
+   "start": 102.359,
+   "end": 105.098
+  },
+  {
+   "pid": 10,
+   "id": "s010",
+   "kind": "p",
+   "hash": "f34417ef",
+   "start": 105.859,
+   "end": 119.457
+  },
+  {
+   "pid": 11,
+   "id": "s011",
+   "kind": "p",
+   "hash": "44c76b1d",
+   "start": 119.946,
+   "end": 135.717
+  },
+  {
+   "pid": 12,
+   "id": "s012",
+   "kind": "p",
+   "hash": "63e822cb",
+   "start": 136.207,
+   "end": 141.033
+  },
+  {
+   "pid": 13,
+   "id": "s013",
+   "kind": "p",
+   "hash": "cd3312a4",
+   "start": 141.522,
+   "end": 164.293
+  },
+  {
+   "pid": 14,
+   "id": "s014",
+   "kind": "heading",
+   "hash": "516310ae",
+   "start": 165.163,
+   "end": 167.859
+  },
+  {
+   "pid": 15,
+   "id": "s015",
+   "kind": "p",
+   "hash": "88afb67b",
+   "start": 168.62,
+   "end": 177.13
+  },
+  {
+   "pid": 16,
+   "id": "s016",
+   "kind": "p",
+   "hash": "cf784523",
+   "start": 177.62,
+   "end": 188.522
+  },
+  {
+   "pid": 17,
+   "id": "s017",
+   "kind": "p",
+   "hash": "b8711484",
+   "start": 189.011,
+   "end": 193.272
+  },
+  {
+   "pid": 18,
+   "id": "s018",
+   "kind": "heading",
+   "hash": "21fc2c36",
+   "start": 194.141,
+   "end": 196.359
+  },
+  {
+   "pid": 19,
+   "id": "s019",
+   "kind": "p",
+   "hash": "b9c1f897",
+   "start": 197.12,
+   "end": 207.413
+  },
+  {
+   "pid": 20,
+   "id": "s020",
+   "kind": "p",
+   "hash": "0de4ba98",
+   "start": 207.902,
+   "end": 220.326
+  },
+  {
+   "pid": 21,
+   "id": "s021",
+   "kind": "p",
+   "hash": "3f730432",
+   "start": 220.815,
+   "end": 234.576
+  },
+  {
+   "pid": 22,
+   "id": "s022",
+   "kind": "outro",
+   "hash": "outro",
+   "start": 235.065,
+   "end": 237.413
+  }
+ ]
+}
