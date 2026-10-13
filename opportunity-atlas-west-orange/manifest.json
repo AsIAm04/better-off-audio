@@ -1,0 +1,391 @@
+{
+ "version": 1,
+ "slug": "opportunity-atlas-west-orange",
+ "url": "https://www.asiamconsultinggroup.com/better-off/opportunity-atlas-west-orange",
+ "title": "Same Start, Different Outcomes: What the Opportunity Atlas Shows About West Orange",
+ "audio": "narration.mp3",
+ "engine": "chatterbox",
+ "voice": "chatterbox:clone",
+ "voice_label": "Chatterbox clone of your reference.wav (MIT)",
+ "speed": 1.0,
+ "delivery": {
+  "cfg_weight": 0.5,
+  "exaggeration": 0.4,
+  "tempo": 0.92
+ },
+ "duration": 721.043,
+ "rendered_at": "2026-10-13T10:48:25-04:00",
+ "source_hash": "17a0506e",
+ "hash_rule": "fnv1a32 of element textContent (script/style/noscript/button/svg and [class*=ai-audio] removed), whitespace collapsed and trimmed",
+ "disclosure": "AI-generated narration",
+ "segments": [
+  {
+   "pid": 0,
+   "id": "s000",
+   "kind": "title",
+   "hash": "title",
+   "start": 0.0,
+   "end": 4.826
+  },
+  {
+   "pid": 1,
+   "id": "s001",
+   "kind": "p",
+   "hash": "09d752d8",
+   "start": 5.804,
+   "end": 17.913
+  },
+  {
+   "pid": 2,
+   "id": "s002",
+   "kind": "p",
+   "hash": "ee77d7f1",
+   "start": 18.402,
+   "end": 61.663
+  },
+  {
+   "pid": 3,
+   "id": "s003",
+   "kind": "p",
+   "hash": "d766315c",
+   "start": 62.152,
+   "end": 108.185
+  },
+  {
+   "pid": 4,
+   "id": "s004",
+   "kind": "heading",
+   "hash": "ad184c2c",
+   "start": 109.054,
+   "end": 110.75
+  },
+  {
+   "pid": 5,
+   "id": "s005",
+   "kind": "p",
+   "hash": "c0b3d44d",
+   "start": 111.511,
+   "end": 141.011
+  },
+  {
+   "pid": 6,
+   "id": "s006",
+   "kind": "p",
+   "hash": "dffa226f",
+   "start": 141.5,
+   "end": 146.196
+  },
+  {
+   "pid": 7,
+   "id": "s007",
+   "kind": "heading",
+   "hash": "f43b8ba1",
+   "start": 147.065,
+   "end": 149.152
+  },
+  {
+   "pid": 8,
+   "id": "s008",
+   "kind": "p",
+   "hash": "9be1e83e",
+   "start": 149.913,
+   "end": 158.391
+  },
+  {
+   "pid": 9,
+   "id": "s009",
+   "kind": "item",
+   "hash": "c532c26b",
+   "start": 158.88,
+   "end": 161.054
+  },
+  {
+   "pid": 10,
+   "id": "s010",
+   "kind": "item",
+   "hash": "4066b019",
+   "start": 161.38,
+   "end": 163.859
+  },
+  {
+   "pid": 11,
+   "id": "s011",
+   "kind": "item",
+   "hash": "a2e2b3b0",
+   "start": 164.185,
+   "end": 166.315
+  },
+  {
+   "pid": 12,
+   "id": "s012",
+   "kind": "p",
+   "hash": "0a810970",
+   "start": 166.641,
+   "end": 187.163
+  },
+  {
+   "pid": 13,
+   "id": "s013",
+   "kind": "p",
+   "hash": "0d1a8ca8",
+   "start": 187.652,
+   "end": 203.88
+  },
+  {
+   "pid": 14,
+   "id": "s014",
+   "kind": "heading",
+   "hash": "1ecb9ea1",
+   "start": 204.75,
+   "end": 206.88
+  },
+  {
+   "pid": 15,
+   "id": "s015",
+   "kind": "p",
+   "hash": "ca735927",
+   "start": 207.641,
+   "end": 219.62
+  },
+  {
+   "pid": 16,
+   "id": "s016",
+   "kind": "p",
+   "hash": "802c1a56",
+   "start": 220.109,
+   "end": 243.38
+  },
+  {
+   "pid": 17,
+   "id": "s017",
+   "kind": "p",
+   "hash": "5c66fcd3",
+   "start": 243.87,
+   "end": 247.565
+  },
+  {
+   "pid": 18,
+   "id": "s018",
+   "kind": "p",
+   "hash": "e519a790",
+   "start": 248.054,
+   "end": 254.304
+  },
+  {
+   "pid": 19,
+   "id": "s019",
+   "kind": "p",
+   "hash": "62b2e6a8",
+   "start": 254.793,
+   "end": 260.739
+  },
+  {
+   "pid": 20,
+   "id": "s020",
+   "kind": "caption",
+   "hash": "0afe124b",
+   "start": 261.228,
+   "end": 288.467
+  },
+  {
+   "pid": 21,
+   "id": "s021",
+   "kind": "p",
+   "hash": "075cdf19",
+   "start": 288.957,
+   "end": 322.87
+  },
+  {
+   "pid": 22,
+   "id": "s022",
+   "kind": "p",
+   "hash": "18d6b0ef",
+   "start": 323.359,
+   "end": 327.609
+  },
+  {
+   "pid": 23,
+   "id": "s023",
+   "kind": "p",
+   "hash": "e28339f3",
+   "start": 328.098,
+   "end": 334.826
+  },
+  {
+   "pid": 24,
+   "id": "s024",
+   "kind": "caption",
+   "hash": "ffa7512c",
+   "start": 335.315,
+   "end": 364.609
+  },
+  {
+   "pid": 25,
+   "id": "s025",
+   "kind": "p",
+   "hash": "e58a1b65",
+   "start": 365.098,
+   "end": 402.826
+  },
+  {
+   "pid": 26,
+   "id": "s026",
+   "kind": "p",
+   "hash": "cd51fa30",
+   "start": 403.315,
+   "end": 417.609
+  },
+  {
+   "pid": 27,
+   "id": "s027",
+   "kind": "p",
+   "hash": "a2c7a406",
+   "start": 418.098,
+   "end": 425.913
+  },
+  {
+   "pid": 28,
+   "id": "s028",
+   "kind": "p",
+   "hash": "745aa263",
+   "start": 426.402,
+   "end": 455.413
+  },
+  {
+   "pid": 29,
+   "id": "s029",
+   "kind": "p",
+   "hash": "922a0af4",
+   "start": 455.902,
+   "end": 483.609
+  },
+  {
+   "pid": 30,
+   "id": "s030",
+   "kind": "p",
+   "hash": "62364236",
+   "start": 484.098,
+   "end": 499.565
+  },
+  {
+   "pid": 31,
+   "id": "s031",
+   "kind": "p",
+   "hash": "a4983f05",
+   "start": 500.054,
+   "end": 518.674
+  },
+  {
+   "pid": 32,
+   "id": "s032",
+   "kind": "heading",
+   "hash": "d2201df5",
+   "start": 519.543,
+   "end": 521.457
+  },
+  {
+   "pid": 33,
+   "id": "s033",
+   "kind": "p",
+   "hash": "420ec3cb",
+   "start": 522.217,
+   "end": 541.272
+  },
+  {
+   "pid": 34,
+   "id": "s034",
+   "kind": "heading",
+   "hash": "d2e107fe",
+   "start": 542.141,
+   "end": 543.75
+  },
+  {
+   "pid": 35,
+   "id": "s035",
+   "kind": "p",
+   "hash": "7200b979",
+   "start": 544.511,
+   "end": 562.63
+  },
+  {
+   "pid": 36,
+   "id": "s036",
+   "kind": "p",
+   "hash": "58f843e2",
+   "start": 563.12,
+   "end": 596.326
+  },
+  {
+   "pid": 37,
+   "id": "s037",
+   "kind": "p",
+   "hash": "0c1f45c2",
+   "start": 596.815,
+   "end": 617.489
+  },
+  {
+   "pid": 38,
+   "id": "s038",
+   "kind": "p",
+   "hash": "1df443ed",
+   "start": 617.978,
+   "end": 623.663
+  },
+  {
+   "pid": 39,
+   "id": "s039",
+   "kind": "p",
+   "hash": "d9ce49c7",
+   "start": 624.152,
+   "end": 638.957
+  },
+  {
+   "pid": 40,
+   "id": "s040",
+   "kind": "caption",
+   "hash": "4f96be0d",
+   "start": 639.446,
+   "end": 664.446
+  },
+  {
+   "pid": 41,
+   "id": "s041",
+   "kind": "heading",
+   "hash": "0904fdb1",
+   "start": 665.315,
+   "end": 667.62
+  },
+  {
+   "pid": 42,
+   "id": "s042",
+   "kind": "p",
+   "hash": "074059ca",
+   "start": 668.38,
+   "end": 683.793
+  },
+  {
+   "pid": 43,
+   "id": "s043",
+   "kind": "p",
+   "hash": "9a3175f6",
+   "start": 684.283,
+   "end": 711.435
+  },
+  {
+   "pid": 44,
+   "id": "s044",
+   "kind": "p",
+   "hash": "b05d94f9",
+   "start": 711.924,
+   "end": 718.076
+  },
+  {
+   "pid": 45,
+   "id": "s045",
+   "kind": "outro",
+   "hash": "outro",
+   "start": 718.565,
+   "end": 721.043
+  }
+ ]
+}
