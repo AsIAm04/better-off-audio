@@ -27,9 +27,9 @@
   "title": "Same Start, Different Outcomes: What the Opportunity Atlas Shows About West Orange",
   "url": "https://www.asiamconsultinggroup.com/better-off/opportunity-atlas-west-orange",
   "voice": "chatterbox:clone",
-  "duration": 721.043,
-  "rendered_at": "2026-10-13T10:48:25-04:00",
-  "source_hash": "17a0506e"
+  "duration": 679.598,
+  "rendered_at": "2026-10-13T12:22:54-04:00",
+  "source_hash": "a4db1d78"
  },
  "symbolic-solidarity-structural-change-racial-equity-institutions": {
   "title": "Symbolic Solidarity and Structural Change Are Not the Same Thing",
@@ -46,5 +46,13 @@
   "duration": 143.511,
   "rendered_at": "2026-10-12T20:41:54-04:00",
   "source_hash": "8f8a4c31"
+ },
+ "yellowline": {
+  "title": "The Yellow Line: How a 1939 Mortgage Grade Still Shapes West Orange, NJ",
+  "url": "https://www.asiamconsultinggroup.com/better-off/yellowline",
+  "voice": "chatterbox:clone",
+  "duration": 1377.587,
+  "rendered_at": "2026-10-13T13:26:07-04:00",
+  "source_hash": "7a769fd8"
  }
 }
