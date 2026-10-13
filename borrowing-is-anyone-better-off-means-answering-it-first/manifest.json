@@ -1,0 +1,127 @@
+{
+ "version": 1,
+ "slug": "borrowing-is-anyone-better-off-means-answering-it-first",
+ "url": "https://www.asiamconsultinggroup.com/better-off/borrowing-is-anyone-better-off-means-answering-it-first",
+ "title": "Borrowing \"Is anyone better off?\" Means Answering It First",
+ "audio": "narration.mp3",
+ "engine": "chatterbox",
+ "voice": "chatterbox:clone",
+ "voice_label": "Chatterbox clone of your reference.wav (MIT)",
+ "speed": 1.0,
+ "delivery": {
+  "cfg_weight": 0.5,
+  "exaggeration": 0.4,
+  "tempo": 0.92
+ },
+ "duration": 289.989,
+ "rendered_at": "2026-10-12T20:56:30-04:00",
+ "source_hash": "96f498b7",
+ "hash_rule": "fnv1a32 of element textContent (script/style/noscript/button/svg and [class*=ai-audio] removed), whitespace collapsed and trimmed",
+ "disclosure": "AI-generated narration",
+ "segments": [
+  {
+   "pid": 0,
+   "id": "s000",
+   "kind": "title",
+   "hash": "title",
+   "start": 0.0,
+   "end": 4.783
+  },
+  {
+   "pid": 1,
+   "id": "s001",
+   "kind": "p",
+   "hash": "24b50625",
+   "start": 5.761,
+   "end": 7.848
+  },
+  {
+   "pid": 2,
+   "id": "s002",
+   "kind": "p",
+   "hash": "f1011cc9",
+   "start": 8.337,
+   "end": 38.272
+  },
+  {
+   "pid": 3,
+   "id": "s003",
+   "kind": "p",
+   "hash": "79bdb854",
+   "start": 38.761,
+   "end": 91.685
+  },
+  {
+   "pid": 4,
+   "id": "s004",
+   "kind": "p",
+   "hash": "5b5f175a",
+   "start": 92.174,
+   "end": 128.109
+  },
+  {
+   "pid": 5,
+   "id": "s005",
+   "kind": "p",
+   "hash": "be72a638",
+   "start": 128.598,
+   "end": 168.793
+  },
+  {
+   "pid": 6,
+   "id": "s006",
+   "kind": "p",
+   "hash": "3e198b0d",
+   "start": 169.283,
+   "end": 174.054
+  },
+  {
+   "pid": 7,
+   "id": "s007",
+   "kind": "p",
+   "hash": "343d3922",
+   "start": 174.543,
+   "end": 192.228
+  },
+  {
+   "pid": 8,
+   "id": "s008",
+   "kind": "p",
+   "hash": "5e2a744d",
+   "start": 192.717,
+   "end": 199.707
+  },
+  {
+   "pid": 9,
+   "id": "s009",
+   "kind": "p",
+   "hash": "b0baee69",
+   "start": 200.196,
+   "end": 216.902
+  },
+  {
+   "pid": 10,
+   "id": "s010",
+   "kind": "p",
+   "hash": "27a2248e",
+   "start": 217.391,
+   "end": 260.152
+  },
+  {
+   "pid": 11,
+   "id": "s011",
+   "kind": "p",
+   "hash": "ce784a98",
+   "start": 260.641,
+   "end": 287.109
+  },
+  {
+   "pid": 12,
+   "id": "s012",
+   "kind": "outro",
+   "hash": "outro",
+   "start": 287.598,
+   "end": 289.989
+  }
+ ]
+}

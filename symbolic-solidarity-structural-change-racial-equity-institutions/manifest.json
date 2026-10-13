@@ -1,0 +1,279 @@
+{
+ "version": 1,
+ "slug": "symbolic-solidarity-structural-change-racial-equity-institutions",
+ "url": "https://www.asiamconsultinggroup.com/better-off/symbolic-solidarity-structural-change-racial-equity-institutions",
+ "title": "Symbolic Solidarity and Structural Change Are Not the Same Thing",
+ "audio": "narration.mp3",
+ "engine": "chatterbox",
+ "voice": "chatterbox:clone",
+ "voice_label": "Chatterbox clone of your reference.wav (MIT)",
+ "speed": 1.0,
+ "delivery": {
+  "cfg_weight": 0.5,
+  "exaggeration": 0.4,
+  "tempo": 0.92
+ },
+ "duration": 480.0,
+ "rendered_at": "2026-10-12T22:03:35-04:00",
+ "source_hash": "0103a87a",
+ "hash_rule": "fnv1a32 of element textContent (script/style/noscript/button/svg and [class*=ai-audio] removed), whitespace collapsed and trimmed",
+ "disclosure": "AI-generated narration",
+ "segments": [
+  {
+   "pid": 0,
+   "id": "s000",
+   "kind": "title",
+   "hash": "title",
+   "start": 0.0,
+   "end": 4.043
+  },
+  {
+   "pid": 1,
+   "id": "s001",
+   "kind": "p",
+   "hash": "71a872a0",
+   "start": 5.022,
+   "end": 57.783
+  },
+  {
+   "pid": 2,
+   "id": "s002",
+   "kind": "p",
+   "hash": "4e515008",
+   "start": 58.272,
+   "end": 85.772
+  },
+  {
+   "pid": 3,
+   "id": "s003",
+   "kind": "p",
+   "hash": "4705673e",
+   "start": 86.261,
+   "end": 97.467
+  },
+  {
+   "pid": 4,
+   "id": "s004",
+   "kind": "heading",
+   "hash": "85df5e71",
+   "start": 98.337,
+   "end": 101.25
+  },
+  {
+   "pid": 5,
+   "id": "s005",
+   "kind": "p",
+   "hash": "d7168054",
+   "start": 102.011,
+   "end": 118.522
+  },
+  {
+   "pid": 6,
+   "id": "s006",
+   "kind": "p",
+   "hash": "5e4be6ca",
+   "start": 119.011,
+   "end": 145.163
+  },
+  {
+   "pid": 7,
+   "id": "s007",
+   "kind": "p",
+   "hash": "68c735f2",
+   "start": 145.652,
+   "end": 161.239
+  },
+  {
+   "pid": 8,
+   "id": "s008",
+   "kind": "heading",
+   "hash": "1c4fc707",
+   "start": 162.109,
+   "end": 165.022
+  },
+  {
+   "pid": 9,
+   "id": "s009",
+   "kind": "p",
+   "hash": "f55c2c9e",
+   "start": 165.783,
+   "end": 180.772
+  },
+  {
+   "pid": 10,
+   "id": "s010",
+   "kind": "p",
+   "hash": "427ad20d",
+   "start": 181.261,
+   "end": 200.761
+  },
+  {
+   "pid": 11,
+   "id": "s011",
+   "kind": "p",
+   "hash": "109dc1dc",
+   "start": 201.25,
+   "end": 229.446
+  },
+  {
+   "pid": 12,
+   "id": "s012",
+   "kind": "heading",
+   "hash": "912e54c1",
+   "start": 230.315,
+   "end": 232.793
+  },
+  {
+   "pid": 13,
+   "id": "s013",
+   "kind": "p",
+   "hash": "87a156a6",
+   "start": 233.554,
+   "end": 258.696
+  },
+  {
+   "pid": 14,
+   "id": "s014",
+   "kind": "p",
+   "hash": "1d1fd53c",
+   "start": 259.185,
+   "end": 292.533
+  },
+  {
+   "pid": 15,
+   "id": "s015",
+   "kind": "p",
+   "hash": "8e1eeeff",
+   "start": 293.022,
+   "end": 309.783
+  },
+  {
+   "pid": 16,
+   "id": "s016",
+   "kind": "heading",
+   "hash": "4f1aa7eb",
+   "start": 310.652,
+   "end": 312.913
+  },
+  {
+   "pid": 17,
+   "id": "s017",
+   "kind": "p",
+   "hash": "9ba33e93",
+   "start": 313.674,
+   "end": 331.696
+  },
+  {
+   "pid": 18,
+   "id": "s018",
+   "kind": "p",
+   "hash": "dc4d5476",
+   "start": 332.185,
+   "end": 357.728
+  },
+  {
+   "pid": 19,
+   "id": "s019",
+   "kind": "p",
+   "hash": "23dcdc46",
+   "start": 358.217,
+   "end": 369.565
+  },
+  {
+   "pid": 20,
+   "id": "s020",
+   "kind": "heading",
+   "hash": "06e77f61",
+   "start": 370.435,
+   "end": 373.043
+  },
+  {
+   "pid": 21,
+   "id": "s021",
+   "kind": "p",
+   "hash": "808d611c",
+   "start": 373.804,
+   "end": 399.826
+  },
+  {
+   "pid": 22,
+   "id": "s022",
+   "kind": "p",
+   "hash": "15330e5d",
+   "start": 400.315,
+   "end": 402.576
+  },
+  {
+   "pid": 23,
+   "id": "s023",
+   "kind": "item",
+   "hash": "6d710db3",
+   "start": 403.065,
+   "end": 409.5
+  },
+  {
+   "pid": 24,
+   "id": "s024",
+   "kind": "item",
+   "hash": "989b77f5",
+   "start": 409.826,
+   "end": 416.87
+  },
+  {
+   "pid": 25,
+   "id": "s025",
+   "kind": "item",
+   "hash": "6e18d830",
+   "start": 417.196,
+   "end": 426.5
+  },
+  {
+   "pid": 26,
+   "id": "s026",
+   "kind": "item",
+   "hash": "a15481f8",
+   "start": 426.826,
+   "end": 435.435
+  },
+  {
+   "pid": 27,
+   "id": "s027",
+   "kind": "p",
+   "hash": "c36cee4c",
+   "start": 435.761,
+   "end": 444.109
+  },
+  {
+   "pid": 28,
+   "id": "s028",
+   "kind": "heading",
+   "hash": "5c617251",
+   "start": 444.978,
+   "end": 446.63
+  },
+  {
+   "pid": 29,
+   "id": "s029",
+   "kind": "p",
+   "hash": "9c05b1bd",
+   "start": 447.391,
+   "end": 462.25
+  },
+  {
+   "pid": 30,
+   "id": "s030",
+   "kind": "p",
+   "hash": "bf287feb",
+   "start": 462.739,
+   "end": 477.163
+  },
+  {
+   "pid": 31,
+   "id": "s031",
+   "kind": "outro",
+   "hash": "outro",
+   "start": 477.652,
+   "end": 480.0
+  }
+ ]
+}
