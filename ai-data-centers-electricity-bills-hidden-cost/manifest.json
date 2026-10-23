@@ -13,8 +13,8 @@
   "exaggeration": 0.4,
   "tempo": 0.92
  },
- "duration": 671.424,
- "rendered_at": "2026-10-12T21:43:20-04:00",
+ "duration": 729.946,
+ "rendered_at": "2026-10-23T08:11:42-04:00",
  "source_hash": "5346dde6",
  "hash_rule": "fnv1a32 of element textContent (script/style/noscript/button/svg and [class*=ai-audio] removed), whitespace collapsed and trimmed",
  "disclosure": "AI-generated narration",
@@ -25,183 +25,183 @@
    "kind": "title",
    "hash": "title",
    "start": 0.0,
-   "end": 5.217
+   "end": 5.826
   },
   {
    "pid": 1,
    "id": "s001",
    "kind": "p",
    "hash": "72719b6a",
-   "start": 6.196,
-   "end": 101.587
+   "start": 6.804,
+   "end": 108.804
   },
   {
    "pid": 2,
    "id": "s002",
    "kind": "heading",
    "hash": "845fcbd6",
-   "start": 102.457,
-   "end": 104.239
+   "start": 109.674,
+   "end": 112.196
   },
   {
    "pid": 3,
    "id": "s003",
    "kind": "p",
    "hash": "96d05fd1",
-   "start": 105.0,
-   "end": 127.772
+   "start": 112.957,
+   "end": 139.467
   },
   {
    "pid": 4,
    "id": "s004",
    "kind": "p",
    "hash": "8a55abe1",
-   "start": 128.261,
-   "end": 151.837
+   "start": 139.957,
+   "end": 165.967
   },
   {
    "pid": 5,
    "id": "s005",
    "kind": "p",
    "hash": "17ccd821",
-   "start": 152.326,
-   "end": 190.793
+   "start": 166.457,
+   "end": 207.359
   },
   {
    "pid": 6,
    "id": "s006",
    "kind": "p",
    "hash": "169bfdd8",
-   "start": 191.283,
-   "end": 218.511
+   "start": 207.848,
+   "end": 236.511
   },
   {
    "pid": 7,
    "id": "s007",
    "kind": "heading",
    "hash": "df161615",
-   "start": 219.38,
-   "end": 224.424
+   "start": 237.38,
+   "end": 241.293
   },
   {
    "pid": 8,
    "id": "s008",
    "kind": "p",
    "hash": "23afa8ef",
-   "start": 225.185,
-   "end": 259.978
+   "start": 242.054,
+   "end": 279.5
   },
   {
    "pid": 9,
    "id": "s009",
    "kind": "p",
    "hash": "5f60d136",
-   "start": 260.467,
-   "end": 285.946
+   "start": 279.989,
+   "end": 307.641
   },
   {
    "pid": 10,
    "id": "s010",
    "kind": "heading",
    "hash": "29164607",
-   "start": 286.815,
-   "end": 289.989
+   "start": 308.511,
+   "end": 312.207
   },
   {
    "pid": 11,
    "id": "s011",
    "kind": "p",
    "hash": "f9e8a0e7",
-   "start": 290.75,
-   "end": 319.022
+   "start": 312.967,
+   "end": 344.804
   },
   {
    "pid": 12,
    "id": "s012",
    "kind": "p",
    "hash": "19d5a761",
-   "start": 319.511,
-   "end": 362.337
+   "start": 345.293,
+   "end": 389.641
   },
   {
    "pid": 13,
    "id": "s013",
    "kind": "heading",
    "hash": "e0c2e00c",
-   "start": 363.207,
-   "end": 365.38
+   "start": 390.511,
+   "end": 392.946
   },
   {
    "pid": 14,
    "id": "s014",
    "kind": "p",
    "hash": "f466442d",
-   "start": 366.141,
-   "end": 410.957
+   "start": 393.707,
+   "end": 444.609
   },
   {
    "pid": 15,
    "id": "s015",
    "kind": "p",
    "hash": "55b1a241",
-   "start": 411.446,
-   "end": 453.12
+   "start": 445.098,
+   "end": 490.902
   },
   {
    "pid": 16,
    "id": "s016",
    "kind": "heading",
    "hash": "175b948a",
-   "start": 453.989,
-   "end": 456.12
+   "start": 491.772,
+   "end": 494.163
   },
   {
    "pid": 17,
    "id": "s017",
    "kind": "p",
    "hash": "c462eb58",
-   "start": 456.88,
-   "end": 503.163
+   "start": 494.924,
+   "end": 544.076
   },
   {
    "pid": 18,
    "id": "s018",
    "kind": "p",
    "hash": "bb68eceb",
-   "start": 503.652,
-   "end": 533.141
+   "start": 544.565,
+   "end": 579.054
   },
   {
    "pid": 19,
    "id": "s019",
    "kind": "p",
    "hash": "d4f0d7cc",
-   "start": 533.63,
-   "end": 574.185
+   "start": 579.543,
+   "end": 623.402
   },
   {
    "pid": 20,
    "id": "s020",
    "kind": "p",
    "hash": "95c24f23",
-   "start": 574.674,
-   "end": 637.87
+   "start": 623.891,
+   "end": 693.0
   },
   {
    "pid": 21,
    "id": "s021",
    "kind": "p",
    "hash": "4802c826",
-   "start": 638.359,
-   "end": 668.413
+   "start": 693.489,
+   "end": 726.978
   },
   {
    "pid": 22,
    "id": "s022",
    "kind": "outro",
    "hash": "outro",
-   "start": 668.902,
-   "end": 671.424
+   "start": 727.467,
+   "end": 729.946
   }
  ]
 }

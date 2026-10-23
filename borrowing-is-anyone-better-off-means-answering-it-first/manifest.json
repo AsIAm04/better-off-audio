@@ -13,8 +13,8 @@
   "exaggeration": 0.4,
   "tempo": 0.92
  },
- "duration": 289.989,
- "rendered_at": "2026-10-12T20:56:30-04:00",
+ "duration": 314.337,
+ "rendered_at": "2026-10-22T22:49:56-04:00",
  "source_hash": "96f498b7",
  "hash_rule": "fnv1a32 of element textContent (script/style/noscript/button/svg and [class*=ai-audio] removed), whitespace collapsed and trimmed",
  "disclosure": "AI-generated narration",
@@ -25,103 +25,103 @@
    "kind": "title",
    "hash": "title",
    "start": 0.0,
-   "end": 4.783
+   "end": 4.609
   },
   {
    "pid": 1,
    "id": "s001",
    "kind": "p",
    "hash": "24b50625",
-   "start": 5.761,
-   "end": 7.848
+   "start": 5.587,
+   "end": 7.152
   },
   {
    "pid": 2,
    "id": "s002",
    "kind": "p",
    "hash": "f1011cc9",
-   "start": 8.337,
-   "end": 38.272
+   "start": 7.641,
+   "end": 39.402
   },
   {
    "pid": 3,
    "id": "s003",
    "kind": "p",
    "hash": "79bdb854",
-   "start": 38.761,
-   "end": 91.685
+   "start": 39.891,
+   "end": 95.38
   },
   {
    "pid": 4,
    "id": "s004",
    "kind": "p",
    "hash": "5b5f175a",
-   "start": 92.174,
-   "end": 128.109
+   "start": 95.87,
+   "end": 136.848
   },
   {
    "pid": 5,
    "id": "s005",
    "kind": "p",
    "hash": "be72a638",
-   "start": 128.598,
-   "end": 168.793
+   "start": 137.337,
+   "end": 182.185
   },
   {
    "pid": 6,
    "id": "s006",
    "kind": "p",
    "hash": "3e198b0d",
-   "start": 169.283,
-   "end": 174.054
+   "start": 182.674,
+   "end": 188.098
   },
   {
    "pid": 7,
    "id": "s007",
    "kind": "p",
    "hash": "343d3922",
-   "start": 174.543,
-   "end": 192.228
+   "start": 188.587,
+   "end": 208.489
   },
   {
    "pid": 8,
    "id": "s008",
    "kind": "p",
    "hash": "5e2a744d",
-   "start": 192.717,
-   "end": 199.707
+   "start": 208.978,
+   "end": 216.272
   },
   {
    "pid": 9,
    "id": "s009",
    "kind": "p",
    "hash": "b0baee69",
-   "start": 200.196,
-   "end": 216.902
+   "start": 216.761,
+   "end": 233.685
   },
   {
    "pid": 10,
    "id": "s010",
    "kind": "p",
    "hash": "27a2248e",
-   "start": 217.391,
-   "end": 260.152
+   "start": 234.174,
+   "end": 280.848
   },
   {
    "pid": 11,
    "id": "s011",
    "kind": "p",
    "hash": "ce784a98",
-   "start": 260.641,
-   "end": 287.109
+   "start": 281.337,
+   "end": 311.37
   },
   {
    "pid": 12,
    "id": "s012",
    "kind": "outro",
    "hash": "outro",
-   "start": 287.598,
-   "end": 289.989
+   "start": 311.859,
+   "end": 314.337
   }
  ]
 }
