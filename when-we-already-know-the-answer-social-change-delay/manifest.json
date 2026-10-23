@@ -14,7 +14,7 @@
   "tempo": 0.92
  },
  "duration": 152.293,
- "rendered_at": "2026-10-23T09:21:15-04:00",
+ "rendered_at": "2026-10-23T14:20:20-04:00",
  "source_hash": "8f8a4c31",
  "hash_rule": "fnv1a32 of element textContent (script/style/noscript/button/svg and [class*=ai-audio] removed), whitespace collapsed and trimmed",
  "disclosure": "AI-generated narration",
@@ -73,22 +73,22 @@
    "kind": "heading",
    "hash": "1cc196e6",
    "start": 72.543,
-   "end": 74.978
+   "end": 74.761
   },
   {
    "pid": 7,
    "id": "s007",
    "kind": "p",
    "hash": "7ef4d307",
-   "start": 75.739,
-   "end": 108.815
+   "start": 75.522,
+   "end": 108.598
   },
   {
    "pid": 8,
    "id": "s008",
    "kind": "heading",
    "hash": "5f3534c2",
-   "start": 109.685,
+   "start": 109.467,
    "end": 111.772
   },
   {
