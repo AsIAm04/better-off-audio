@@ -13,9 +13,9 @@
   "exaggeration": 0.4,
   "tempo": 0.92
  },
- "duration": 1631.141,
- "rendered_at": "2026-11-06T19:40:10-05:00",
- "source_hash": "8b56f1df",
+ "duration": 1629.109,
+ "rendered_at": "2026-11-21T11:13:20-05:00",
+ "source_hash": "5226bdff",
  "hash_rule": "fnv1a32 of element textContent (script/style/noscript/button/svg and [class*=ai-audio] removed), whitespace collapsed and trimmed",
  "disclosure": "AI-generated narration",
  "segments": [
@@ -31,7 +31,7 @@
    "pid": 1,
    "id": "s001",
    "kind": "p",
-   "hash": "6e57640b",
+   "hash": "c3103cec",
    "start": 5.109,
    "end": 66.25
   },
@@ -47,329 +47,329 @@
    "pid": 3,
    "id": "s003",
    "kind": "p",
-   "hash": "89d80d51",
+   "hash": "1a86af1e",
    "start": 70.489,
-   "end": 120.174
+   "end": 116.348
   },
   {
    "pid": 4,
    "id": "s004",
    "kind": "heading",
    "hash": "03304b94",
-   "start": 121.043,
-   "end": 123.391
+   "start": 117.217,
+   "end": 119.565
   },
   {
    "pid": 5,
    "id": "s005",
    "kind": "p",
-   "hash": "2f3d2690",
-   "start": 124.152,
-   "end": 180.87
+   "hash": "90e6bb79",
+   "start": 120.326,
+   "end": 177.043
   },
   {
    "pid": 6,
    "id": "s006",
    "kind": "p",
-   "hash": "94b5e03a",
-   "start": 181.359,
-   "end": 254.054
+   "hash": "85f31d5a",
+   "start": 177.533,
+   "end": 248.141
   },
   {
    "pid": 7,
    "id": "s007",
    "kind": "p",
-   "hash": "2fa35ae3",
-   "start": 254.543,
-   "end": 266.533
+   "hash": "82870cd0",
+   "start": 248.63,
+   "end": 260.62
   },
   {
    "pid": 8,
    "id": "s008",
    "kind": "heading",
    "hash": "42f5de07",
-   "start": 267.402,
-   "end": 269.88
+   "start": 261.489,
+   "end": 263.967
   },
   {
    "pid": 9,
    "id": "s009",
    "kind": "p",
-   "hash": "b28527b8",
-   "start": 270.641,
-   "end": 326.75
+   "hash": "c39dcae9",
+   "start": 264.728,
+   "end": 320.837
   },
   {
    "pid": 10,
    "id": "s010",
    "kind": "p",
-   "hash": "6be5bdf0",
-   "start": 327.239,
-   "end": 361.217
+   "hash": "2b02e8dc",
+   "start": 321.326,
+   "end": 355.304
   },
   {
    "pid": 11,
    "id": "s011",
    "kind": "heading",
    "hash": "dab7b96f",
-   "start": 362.087,
-   "end": 365.043
+   "start": 356.174,
+   "end": 359.13
   },
   {
    "pid": 12,
    "id": "s012",
    "kind": "p",
-   "hash": "eb596303",
-   "start": 365.804,
-   "end": 403.511
+   "hash": "7f559f65",
+   "start": 359.891,
+   "end": 397.598
   },
   {
    "pid": 13,
    "id": "s013",
    "kind": "p",
-   "hash": "f840f52c",
-   "start": 404.0,
-   "end": 451.772
+   "hash": "c35809bb",
+   "start": 398.087,
+   "end": 442.554
   },
   {
    "pid": 14,
    "id": "s014",
    "kind": "p",
-   "hash": "fc03f41c",
-   "start": 452.261,
-   "end": 484.174
+   "hash": "2d2c1cfc",
+   "start": 443.043,
+   "end": 474.957
   },
   {
    "pid": 15,
    "id": "s015",
    "kind": "heading",
    "hash": "6c6a53b7",
-   "start": 485.043,
-   "end": 487.174
+   "start": 475.826,
+   "end": 477.957
   },
   {
    "pid": 16,
    "id": "s016",
    "kind": "p",
-   "hash": "5a4fb716",
-   "start": 487.935,
-   "end": 538.413
+   "hash": "104910c1",
+   "start": 478.717,
+   "end": 525.804
   },
   {
    "pid": 17,
    "id": "s017",
    "kind": "p",
    "hash": "c11db4cb",
-   "start": 538.902,
-   "end": 562.707
+   "start": 526.293,
+   "end": 550.098
   },
   {
    "pid": 18,
    "id": "s018",
    "kind": "p",
-   "hash": "b76b85e5",
-   "start": 563.196,
-   "end": 591.641
+   "hash": "8382e359",
+   "start": 550.587,
+   "end": 579.033
   },
   {
    "pid": 19,
    "id": "s019",
    "kind": "p",
-   "hash": "794c0c46",
-   "start": 592.13,
-   "end": 630.304
+   "hash": "a0ad7b83",
+   "start": 579.522,
+   "end": 617.696
   },
   {
    "pid": 20,
    "id": "s020",
    "kind": "p",
    "hash": "220a31b0",
-   "start": 630.793,
-   "end": 654.196
+   "start": 618.185,
+   "end": 641.587
   },
   {
    "pid": 21,
    "id": "s021",
-   "kind": "heading",
+   "kind": "p",
    "hash": "6c6d423b",
-   "start": 655.065,
-   "end": 656.457
+   "start": 642.076,
+   "end": 643.467
   },
   {
    "pid": 22,
    "id": "s022",
    "kind": "p",
-   "hash": "934bf031",
-   "start": 657.217,
-   "end": 695.043
+   "hash": "27022ea7",
+   "start": 643.957,
+   "end": 681.174
   },
   {
    "pid": 23,
    "id": "s023",
    "kind": "p",
-   "hash": "045c2c98",
-   "start": 695.533,
-   "end": 764.12
+   "hash": "09f72bf1",
+   "start": 681.663,
+   "end": 750.25
   },
   {
    "pid": 24,
    "id": "s024",
    "kind": "p",
    "hash": "89f630b9",
-   "start": 764.609,
-   "end": 815.891
+   "start": 750.739,
+   "end": 802.022
   },
   {
    "pid": 25,
    "id": "s025",
    "kind": "p",
-   "hash": "5bcc29f4",
-   "start": 816.38,
-   "end": 867.717
+   "hash": "7c141ad2",
+   "start": 802.511,
+   "end": 853.848
   },
   {
    "pid": 26,
    "id": "s026",
    "kind": "p",
-   "hash": "894e8d95",
-   "start": 868.207,
-   "end": 894.489
+   "hash": "6aecd9f8",
+   "start": 854.337,
+   "end": 880.62
   },
   {
    "pid": 27,
    "id": "s027",
    "kind": "heading",
    "hash": "9dac8939",
-   "start": 895.359,
-   "end": 898.837
+   "start": 881.489,
+   "end": 884.967
   },
   {
    "pid": 28,
    "id": "s028",
    "kind": "p",
-   "hash": "65d63e4b",
-   "start": 899.598,
-   "end": 992.391
+   "hash": "ad25b882",
+   "start": 885.728,
+   "end": 978.522
   },
   {
    "pid": 29,
    "id": "s029",
    "kind": "p",
-   "hash": "0416024e",
-   "start": 992.88,
-   "end": 1049.859
+   "hash": "6fbe239b",
+   "start": 979.011,
+   "end": 1035.989
   },
   {
    "pid": 30,
    "id": "s030",
    "kind": "p",
-   "hash": "850c703b",
-   "start": 1050.348,
-   "end": 1076.696
+   "hash": "50cda2f3",
+   "start": 1036.478,
+   "end": 1062.826
   },
   {
    "pid": 31,
    "id": "s031",
-   "kind": "heading",
+   "kind": "p",
    "hash": "2683c2b5",
-   "start": 1077.565,
-   "end": 1079.652
+   "start": 1063.315,
+   "end": 1065.402
   },
   {
    "pid": 32,
    "id": "s032",
    "kind": "p",
-   "hash": "15b06b75",
-   "start": 1080.413,
-   "end": 1138.565
+   "hash": "df1bad1e",
+   "start": 1065.891,
+   "end": 1127.641
   },
   {
    "pid": 33,
    "id": "s033",
    "kind": "p",
-   "hash": "afcbd5f4",
-   "start": 1139.054,
-   "end": 1179.054
+   "hash": "cade0bd0",
+   "start": 1128.13,
+   "end": 1167.435
   },
   {
    "pid": 34,
    "id": "s034",
    "kind": "p",
-   "hash": "8d65f503",
-   "start": 1179.543,
-   "end": 1274.207
+   "hash": "dbfa338b",
+   "start": 1167.924,
+   "end": 1275.913
   },
   {
    "pid": 35,
    "id": "s035",
    "kind": "heading",
    "hash": "e693a223",
-   "start": 1275.076,
-   "end": 1277.25
+   "start": 1276.783,
+   "end": 1278.957
   },
   {
    "pid": 36,
    "id": "s036",
    "kind": "p",
-   "hash": "c62d384a",
-   "start": 1278.011,
-   "end": 1308.88
+   "hash": "cbebadd7",
+   "start": 1279.717,
+   "end": 1309.457
   },
   {
    "pid": 37,
    "id": "s037",
    "kind": "p",
    "hash": "68ddae53",
-   "start": 1309.37,
-   "end": 1322.141
+   "start": 1309.946,
+   "end": 1322.717
   },
   {
    "pid": 38,
    "id": "s038",
    "kind": "p",
    "hash": "61c134b5",
-   "start": 1322.63,
-   "end": 1341.359
+   "start": 1323.207,
+   "end": 1341.935
   },
   {
    "pid": 39,
    "id": "s039",
    "kind": "p",
    "hash": "9591c89f",
-   "start": 1341.848,
-   "end": 1348.804
+   "start": 1342.424,
+   "end": 1349.38
   },
   {
    "pid": 40,
    "id": "s040",
    "kind": "p",
    "hash": "0028ebcc",
-   "start": 1349.293,
-   "end": 1354.902
+   "start": 1349.87,
+   "end": 1355.478
   },
   {
    "pid": 41,
    "id": "s041",
    "kind": "heading",
    "hash": "2d90ea92",
-   "start": 1355.772,
-   "end": 1357.685
+   "start": 1356.348,
+   "end": 1358.261
   },
   {
    "pid": 42,
    "id": "s042",
    "kind": "p",
-   "hash": "ae8cb47d",
-   "start": 1358.446,
-   "end": 1628.565
+   "hash": "23575a4e",
+   "start": 1359.022,
+   "end": 1626.533
   },
   {
    "pid": 43,
    "id": "s043",
    "kind": "outro",
    "hash": "outro",
-   "start": 1629.054,
-   "end": 1631.141
+   "start": 1627.022,
+   "end": 1629.109
   }
  ]
 }

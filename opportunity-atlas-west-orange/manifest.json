@@ -13,9 +13,9 @@
   "exaggeration": 0.4,
   "tempo": 0.92
  },
- "duration": 756.576,
- "rendered_at": "2026-10-23T10:55:44-04:00",
- "source_hash": "39adb161",
+ "duration": 874.783,
+ "rendered_at": "2026-11-21T12:25:07-05:00",
+ "source_hash": "40b6fcbf",
  "hash_rule": "fnv1a32 of element textContent (script/style/noscript/button/svg and [class*=ai-audio] removed), whitespace collapsed and trimmed",
  "disclosure": "AI-generated narration",
  "segments": [
@@ -31,7 +31,7 @@
    "pid": 1,
    "id": "s001",
    "kind": "p",
-   "hash": "0b1068ad",
+   "hash": "2f9ef9d1",
    "start": 6.543,
    "end": 53.065
   },
@@ -39,289 +39,337 @@
    "pid": 2,
    "id": "s002",
    "kind": "p",
-   "hash": "d766315c",
+   "hash": "9fbaf64a",
    "start": 53.554,
-   "end": 108.804
+   "end": 105.489
   },
   {
    "pid": 3,
    "id": "s003",
    "kind": "heading",
    "hash": "ad184c2c",
-   "start": 109.674,
-   "end": 111.5
+   "start": 106.359,
+   "end": 108.185
   },
   {
    "pid": 4,
    "id": "s004",
    "kind": "p",
-   "hash": "c0b3d44d",
-   "start": 112.261,
-   "end": 143.152
+   "hash": "da34da72",
+   "start": 108.946,
+   "end": 136.185
   },
   {
    "pid": 5,
    "id": "s005",
    "kind": "p",
    "hash": "dffa226f",
-   "start": 143.641,
-   "end": 147.946
+   "start": 136.674,
+   "end": 140.978
   },
   {
    "pid": 6,
    "id": "s006",
    "kind": "heading",
    "hash": "f43b8ba1",
-   "start": 148.815,
-   "end": 150.772
+   "start": 141.848,
+   "end": 143.804
   },
   {
    "pid": 7,
    "id": "s007",
    "kind": "p",
    "hash": "9be1e83e",
-   "start": 151.533,
-   "end": 161.185
+   "start": 144.565,
+   "end": 154.217
   },
   {
    "pid": 8,
    "id": "s008",
    "kind": "item",
    "hash": "c532c26b",
-   "start": 161.674,
-   "end": 164.37
+   "start": 154.707,
+   "end": 157.402
   },
   {
    "pid": 9,
    "id": "s009",
    "kind": "item",
    "hash": "4066b019",
-   "start": 164.696,
-   "end": 167.261
+   "start": 157.728,
+   "end": 160.293
   },
   {
    "pid": 10,
    "id": "s010",
    "kind": "item",
    "hash": "a2e2b3b0",
-   "start": 167.587,
-   "end": 169.761
+   "start": 160.62,
+   "end": 162.793
   },
   {
    "pid": 11,
    "id": "s011",
    "kind": "p",
-   "hash": "0a810970",
-   "start": 170.087,
-   "end": 191.435
+   "hash": "fa677fdc",
+   "start": 163.12,
+   "end": 199.098
   },
   {
    "pid": 12,
    "id": "s012",
    "kind": "p",
    "hash": "f2235178",
-   "start": 191.924,
-   "end": 209.239
+   "start": 199.587,
+   "end": 216.902
   },
   {
    "pid": 13,
    "id": "s013",
    "kind": "heading",
    "hash": "6047fd00",
-   "start": 210.109,
-   "end": 212.37
+   "start": 217.772,
+   "end": 220.033
   },
   {
    "pid": 14,
    "id": "s014",
    "kind": "p",
-   "hash": "b95aadb7",
-   "start": 213.13,
-   "end": 227.848
+   "hash": "d9cd8850",
+   "start": 220.793,
+   "end": 240.326
   },
   {
    "pid": 15,
    "id": "s015",
    "kind": "p",
-   "hash": "802c1a56",
-   "start": 228.337,
-   "end": 252.957
+   "hash": "5c1207c9",
+   "start": 240.815,
+   "end": 270.348
   },
   {
    "pid": 16,
    "id": "s016",
-   "kind": "caption",
-   "hash": "40946501",
-   "start": 253.446,
-   "end": 290.359
+   "kind": "p",
+   "hash": "5c66fcd3",
+   "start": 270.837,
+   "end": 274.75
   },
   {
    "pid": 17,
    "id": "s017",
    "kind": "p",
-   "hash": "075cdf19",
-   "start": 290.848,
-   "end": 328.239
+   "hash": "f4fbeb80",
+   "start": 275.239,
+   "end": 281.75
   },
   {
    "pid": 18,
    "id": "s018",
-   "kind": "caption",
-   "hash": "881b1e48",
-   "start": 328.728,
-   "end": 357.924
+   "kind": "p",
+   "hash": "88a6cb16",
+   "start": 282.239,
+   "end": 287.152
   },
   {
    "pid": 19,
    "id": "s019",
-   "kind": "p",
-   "hash": "1a8deefa",
-   "start": 358.413,
-   "end": 399.011
+   "kind": "caption",
+   "hash": "32ef30ae",
+   "start": 287.641,
+   "end": 316.402
   },
   {
    "pid": 20,
    "id": "s020",
    "kind": "p",
-   "hash": "79d86f9f",
-   "start": 399.5,
-   "end": 414.011
+   "hash": "dc7bcc1e",
+   "start": 316.891,
+   "end": 371.652
   },
   {
    "pid": 21,
    "id": "s021",
    "kind": "p",
-   "hash": "d149b8c2",
-   "start": 414.5,
-   "end": 422.185
+   "hash": "18d6b0ef",
+   "start": 372.141,
+   "end": 376.826
   },
   {
    "pid": 22,
    "id": "s022",
    "kind": "p",
-   "hash": "2afc8146",
-   "start": 422.674,
-   "end": 454.033
+   "hash": "e28339f3",
+   "start": 377.315,
+   "end": 386.783
   },
   {
    "pid": 23,
    "id": "s023",
-   "kind": "p",
-   "hash": "348dcd7d",
-   "start": 454.522,
-   "end": 484.75
+   "kind": "caption",
+   "hash": "ffa7512c",
+   "start": 387.272,
+   "end": 416.739
   },
   {
    "pid": 24,
    "id": "s024",
    "kind": "p",
-   "hash": "77875e36",
-   "start": 485.239,
-   "end": 502.707
+   "hash": "e908def9",
+   "start": 417.228,
+   "end": 459.913
   },
   {
    "pid": 25,
    "id": "s025",
    "kind": "p",
-   "hash": "c2124f8d",
-   "start": 503.196,
-   "end": 524.337
+   "hash": "8112fcea",
+   "start": 460.402,
+   "end": 475.087
   },
   {
    "pid": 26,
    "id": "s026",
-   "kind": "heading",
-   "hash": "d2201df5",
-   "start": 525.207,
-   "end": 527.12
+   "kind": "p",
+   "hash": "afaa95c1",
+   "start": 475.576,
+   "end": 516.304
   },
   {
    "pid": 27,
    "id": "s027",
    "kind": "p",
-   "hash": "0b90cf0f",
-   "start": 527.88,
-   "end": 572.772
+   "hash": "e5b20d9b",
+   "start": 516.793,
+   "end": 547.022
   },
   {
    "pid": 28,
    "id": "s028",
-   "kind": "heading",
-   "hash": "d2e107fe",
-   "start": 573.641,
-   "end": 575.293
+   "kind": "p",
+   "hash": "77875e36",
+   "start": 547.511,
+   "end": 564.978
   },
   {
    "pid": 29,
    "id": "s029",
    "kind": "p",
-   "hash": "7200b979",
-   "start": 576.054,
-   "end": 596.435
+   "hash": "3ce6bfa1",
+   "start": 565.467,
+   "end": 600.717
   },
   {
    "pid": 30,
    "id": "s030",
-   "kind": "p",
-   "hash": "58f843e2",
-   "start": 596.924,
-   "end": 631.913
+   "kind": "heading",
+   "hash": "d2201df5",
+   "start": 601.587,
+   "end": 603.5
   },
   {
    "pid": 31,
    "id": "s031",
    "kind": "p",
-   "hash": "0c1f45c2",
-   "start": 632.402,
-   "end": 655.511
+   "hash": "0b90cf0f",
+   "start": 604.261,
+   "end": 649.152
   },
   {
    "pid": 32,
    "id": "s032",
-   "kind": "caption",
-   "hash": "0cf975e8",
-   "start": 656.0,
-   "end": 694.804
+   "kind": "heading",
+   "hash": "d2e107fe",
+   "start": 650.022,
+   "end": 651.674
   },
   {
    "pid": 33,
    "id": "s033",
-   "kind": "heading",
-   "hash": "871bda85",
-   "start": 695.674,
-   "end": 698.196
+   "kind": "p",
+   "hash": "8df3a628",
+   "start": 652.435,
+   "end": 678.196
   },
   {
    "pid": 34,
    "id": "s034",
    "kind": "p",
-   "hash": "fa77cc36",
-   "start": 698.957,
-   "end": 715.109
+   "hash": "fc816b4d",
+   "start": 678.685,
+   "end": 721.359
   },
   {
    "pid": 35,
    "id": "s035",
    "kind": "p",
-   "hash": "9a3175f6",
-   "start": 715.598,
-   "end": 746.967
+   "hash": "77c34426",
+   "start": 721.848,
+   "end": 747.424
   },
   {
    "pid": 36,
    "id": "s036",
    "kind": "p",
-   "hash": "b05d94f9",
-   "start": 747.457,
-   "end": 753.609
+   "hash": "624ae4d3",
+   "start": 747.913,
+   "end": 752.38
   },
   {
    "pid": 37,
    "id": "s037",
+   "kind": "p",
+   "hash": "d9ce49c7",
+   "start": 752.87,
+   "end": 768.283
+  },
+  {
+   "pid": 38,
+   "id": "s038",
+   "kind": "caption",
+   "hash": "dfff58f1",
+   "start": 768.772,
+   "end": 802.63
+  },
+  {
+   "pid": 39,
+   "id": "s039",
+   "kind": "heading",
+   "hash": "871bda85",
+   "start": 803.5,
+   "end": 806.022
+  },
+  {
+   "pid": 40,
+   "id": "s040",
+   "kind": "p",
+   "hash": "09904159",
+   "start": 806.783,
+   "end": 832.533
+  },
+  {
+   "pid": 41,
+   "id": "s041",
+   "kind": "p",
+   "hash": "889ff51b",
+   "start": 833.022,
+   "end": 865.174
+  },
+  {
+   "pid": 42,
+   "id": "s042",
+   "kind": "p",
+   "hash": "b05d94f9",
+   "start": 865.663,
+   "end": 871.815
+  },
+  {
+   "pid": 43,
+   "id": "s043",
    "kind": "outro",
    "hash": "outro",
-   "start": 754.098,
-   "end": 756.576
+   "start": 872.304,
+   "end": 874.783
   }
  ]
 }
